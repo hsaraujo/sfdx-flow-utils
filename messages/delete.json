@@ -1,3 +1,4 @@
 {
-  "keepFlagDescription": "Number of versions to keep per flow"
+  "keepFlagDescription": "Number of versions to keep per flow",
+  "ignoreFlagDescription": "List of Flow Api names to ignore"
 }
